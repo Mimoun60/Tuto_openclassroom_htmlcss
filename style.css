@@ -1,0 +1,17 @@
+body {
+
+
+  background-position:center center;
+  background-image :url("images/fond ecran2.jpg");
+}
+
+h1 {
+
+  color: white;
+}
+
+p{
+text-align: center;
+  color:white;
+  font-size: 20;
+}
